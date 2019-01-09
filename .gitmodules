@@ -1,0 +1,3 @@
+[submodule "supertest"]
+	path = supertest
+	url = https://github.com/stefanbeller/supertest.git
