@@ -3,7 +3,7 @@
 	url = ../supertest.git
 [submodule "supertest-2"]
 	path = supertest-2
-	url = https://github.com/stefanbeller/supertest.git
+	url = ../supertest.git
 [submodule "sup-3"]
 	path = sup-3
-	url = https://github.com/stefanbeller/supertest.git
+	url = ../supertest.git
